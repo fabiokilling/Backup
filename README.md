@@ -16,3 +16,8 @@ W269N-WFGWX-YVC9B-4J6C9-T83GX
 再从命令行中输入这样一行：slmgr.vbs -skms zh.us.to
 
 最后从设置里激活
+
+chrome://version/
+
+C:\Users\(用户名)\AppData\Local\Google\Chrome\User Data\Default
+
