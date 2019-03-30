@@ -22,3 +22,9 @@ chrome://version/
 C:\Users\(用户名)\AppData\Local\Google\Chrome\User Data\Default
 
 房屋室内设计师 黄卓健（Ricci Wong）
+
+雅诗兰黛小棕瓶精华
+
+黛珂水乳
+
+娇兰帝皇蜂姿复原蜜
