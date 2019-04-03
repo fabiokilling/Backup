@@ -32,3 +32,6 @@ C:\Users\(用户名)\AppData\Local\Google\Chrome\User Data\Default
 海蓝之谜 La Mer
 
 https://www.urlgot.com/zh_CN/
+
+
+受击的sup，捂腹walking，树林反杀满血Carry
